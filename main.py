@@ -1,2 +1,1 @@
-print('Hello world :D')
-# by reysys :)
+print("Hello Reysys :D")
